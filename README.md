@@ -1,5 +1,7 @@
 # Git Practice Project
 
-Name: Marjia Khan
+## Author
+Marjia Khan
 
-This project demonstrates basic Git operations such as commits, branching, merging and pushing to GitHub.
+## Description
+This project demonstrates Git and GitHub workflow including branching and merging.
